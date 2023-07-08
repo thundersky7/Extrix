@@ -1,14 +1,20 @@
+# Steps to solve the `Jio TV error - check logs error` 
 
-Steps to solve the `Jio TV error - check logs error` FIX - 08-July-2023
+## FIX - 08-July-2023
 
-step 0 - Download above file `plugins/script.module.requests-2.27.1+matrix.1.zip`
+Follow the steps given below to fix the Jio TV error - check logs error:
 
-step 1 - Open `KODI`
+1. Download the file `plugins/script.module.requests-2.27.1+matrix.1.zip` from the source you trust.
 
-step 2 - Go to `Settings/System/Add-ons`
+2. Open `KODI`.
 
-step 3 - change `Updates >> Notify, but don't install updates`
+3. Go to `Settings/System/Add-ons`.
 
-step 4 - Go to `Settings/Add-ons/Install from zip file`
+4. Under the `Updates` section, select `Notify, but don't install updates`.
 
-step 5 - Install `script.module.requests-2.27.1+matrix.1.zip`
+5. Go to `Settings/Add-ons/Install from zip file`.
+
+6. Install the downloaded `script.module.requests-2.27.1+matrix.1.zip` file.
+
+7. Voilà! The issue should be resolved now.
+
