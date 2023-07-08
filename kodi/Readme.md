@@ -1,4 +1,5 @@
-Steps to solve the `Jio TV error - check logs error` - 08-July-2023
+
+Steps to solve the `Jio TV error - check logs error` FIX - 08-July-2023
 
 step 0 - Download above file `plugins/script.module.requests-2.27.1+matrix.1.zip`
 
