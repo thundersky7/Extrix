@@ -12,6 +12,8 @@ Follow the steps given below to fix the Jio TV - check logs error:
 
 4. Under the `Updates` section, select `Notify, but don't install updates`
 
+![Logo](https://i.imgur.com/Tb21yOc.png)
+
 5. Go to `Settings/Add-ons/Install from zip file`
 
 6. Install the downloaded `script.module.requests.thundersky7+2.27.1-jiotvfix-requests-python.zip` file
