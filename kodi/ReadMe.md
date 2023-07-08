@@ -1,8 +1,12 @@
-# Steps to solve the `Jio TV - check logs error` 
+## Steps to solve the 
+
+# `JioTV error - Check the log for more info error` 
+
+![Logo](https://i.imgur.com/wMhlisM.png)
 
 ## FIX - 08-July-2023
 
-Follow the steps given below to fix the Jio TV - check logs error:
+Follow the steps given below to fix the Jio TV error - Check the log for more info error:
 
 1. Download the file `script.module.requests.thundersky7+2.27.1-jiotvfix-requests-python.zip` - [Download](http://gestyy.com/egHZfc)
 
