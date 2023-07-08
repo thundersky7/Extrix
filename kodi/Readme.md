@@ -4,7 +4,7 @@
 
 Follow the steps given below to fix the Jio TV - check logs error:
 
-1. Download the file `plugins/script.module.requests-2.27.1+matrix.1.zip`
+1. Download the file ☝`plugins/  script.module.requests-2.27.1+matrix.1.zip`
 
 2. Open `KODI`
 
