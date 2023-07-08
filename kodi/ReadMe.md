@@ -1,4 +1,4 @@
-## Steps to solve the 
+## Steps to solve
 
 # `JioTV error - Check the log for more info error` 
 
