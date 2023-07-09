@@ -8,7 +8,7 @@
 
 Follow the steps given below to fix the Jio TV error - Check the log for more info error:
 
-1. Download the file `script.module.requests.thundersky7+2.27.1-jiotvfix-requests-python.zip` - [(Download-LINK)](http://gestyy.com/egHZfc)
+1. Download the file `script.module.requests.thundersky7+2.27.1-jiotvfix-requests-python.zip` - [(Download-LINK 1)](http://gestyy.com/egHZfc) [(Download-LINK 2)](https://shrinke.me/4hIgkb)
 
 
 
